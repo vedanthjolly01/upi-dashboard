@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data files (optional - remove if you want to include data)
+# *.xlsx
+# *.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
